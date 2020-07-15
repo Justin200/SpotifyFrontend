@@ -6,7 +6,7 @@ import ListenerData from '../data/listeners.json';
 var artistList=[];
 var listenersList=[];
 
-//need to go 1 loop deeper
+//Puts artistName and artistListeners into artistList & listenersList arrays
 for (var i = 0; i < ListenerData.artists.length; i++) {    
     for (var artist in ListenerData.artists[i]) {                    
         if (ListenerData.artists[i].hasOwnProperty('artist')) { 
@@ -46,11 +46,13 @@ class Graph extends Component {
                   title:{
                     display:true,
                     text:'Artist Monthly Listeners',
-                    fontSize:20
+                    fontSize:20,
+                    fontColor: "white"
                   },
                   legend:{
                     display:true,
-                    position:'right'
+                    position:'right',
+                    fontColor: "white"
                   }
                 }}
               />

@@ -9,10 +9,10 @@ class NavBar extends Component {
                 <h1 id="title" style ={{color: 'white'}}>Top Artists on Spotify</h1>
                 <div id = "navbar" style={{display: 'inline-flex'}}>
                     <Link to ='/'>
-                        <h2 style ={{color: '#1DB954', margin:'20px', textDecoration: "underline"}}>Charts</h2>
+                        <h2 style ={{color: '#1DB954', margin:'20px', textDecoration: "none"}}>Rankings</h2>
                     </Link>
                     <Link to = '/graph'>
-                        <h2 style ={{color: 'white'}}>Graph</h2>
+                        <h2 style ={{color: '1DB954'}}>Graph</h2>
                     </Link>
                 </div>
             </React.Fragment>

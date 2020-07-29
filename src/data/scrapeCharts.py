@@ -51,7 +51,7 @@ def sortJSON():
     with open('uniqueArtists.json') as f:
         data = json.load(f)
         temp = data['artists']
-        temp.sort(key=operator.itemgetter('monthlylisteners'))
+        temp.sort(reverse=True, key=operator.itemgetter('monthlylisteners'))
         
     with open("sorted.json", "w") as sortedJsonFile:
         #dumping a string

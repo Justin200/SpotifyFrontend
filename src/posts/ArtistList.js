@@ -22,8 +22,8 @@ class ArtistsList extends Component {
                 {/*Iterate through all json data*/}
                 {ListenerData.artists.slice(0, 50).map((listenerDetail)=>{
                     return <div id = "artistRow" style={rowStyles}>
-                        <a href={listenerDetail.url} style ={{color: 'white', textDecoration:'none'}}>1. {listenerDetail.artist}</a>
-                        <p style ={{color: 'white'}}>{listenerDetail.monthlylisteners}</p> 
+                        <a href={listenerDetail.url} style ={{color: 'white', textDecoration:'none'}}> {ListenerData.artists.indexOf(listenerDetail) + 1}. {listenerDetail.artist}</a>
+                        <p style ={{color: 'white'}}>{listenerDetail.monthlylisteners.toLocaleString()}</p> 
                     </div>   
                 })} 
             </div>    

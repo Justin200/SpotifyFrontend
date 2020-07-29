@@ -7,8 +7,8 @@ from bs4 import BeautifulSoup
 
 url5 =  "https://open.spotify.com/playlist/4fC7lFCZnFOa4UaZ6MeJaZ?si=UUhJCwU5TPyYPi-jkThXjA" #my custom playlist
 url4 = "https://open.spotify.com/playlist/2YRe7HRKNRvXdJBp9nXFza" #Spotify most played all time
-url2 = "https://open.spotify.com/playlist/37i9dQZF1DX10zKzsJ2jva" #Viva Latino
 url3 = "https://open.spotify.com/playlist/37i9dQZF1DX0XUsuxWHRQd" #Rap Caviar
+url2 = "https://open.spotify.com/playlist/37i9dQZF1DX10zKzsJ2jva" #Viva Latino
 url = "https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M" #Today's Top Hits
 r = requests.get(url)
 r2 = requests.get(url2)
@@ -25,9 +25,9 @@ link2 = soup2.find_all("a")
 link3 = soup3.find_all("a")
 link4 = soup4.find_all("a")
 link5 = soup5.find_all("a")
-combinedLinks = link4 
-# print(link4)
-#link2 + link3 + link1 + link5
+combinedLinks = link1 + link2 + link4 + link5 
+#+ link3 rap caviar messes things up for some reason?
+
 
 #function that opens listener.json and puts in artist data
 def addArtistToJSON(data, filename = 'listeners.json'):

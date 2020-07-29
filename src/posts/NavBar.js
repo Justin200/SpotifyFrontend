@@ -12,7 +12,7 @@ class NavBar extends Component {
                         <h2 style ={{color: '#1DB954', margin:'20px', textDecoration: "none"}}>Rankings</h2>
                     </Link>
                     <Link to = '/graph'>
-                        <h2 style ={{color: '1DB954'}}>Graph</h2>
+                        <h2 style ={{color: '#1DB954'}}>Graph</h2>
                     </Link>
                 </div>
             </React.Fragment>

@@ -2,7 +2,7 @@
     "artists": [
         {
             "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ", 
-            "monthlylisteners": 60093317, 
+            "monthlylisteners": 60033525, 
             "artist": "The Weeknd"
         }, 
         {
@@ -11,7 +11,12 @@
             "artist": "Drake"
         }, 
         {
-            "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we", 
+            "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR?si=UUhJCwU5TPyYPi-jkThXjA", 
+            "monthlylisteners": 56278203, 
+            "artist": "Ariana Grande"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we?si=UUhJCwU5TPyYPi-jkThXjA", 
             "monthlylisteners": 56013673, 
             "artist": "Dua Lipa"
         }, 
@@ -26,9 +31,34 @@
             "artist": "Ed Sheeran"
         }, 
         {
+            "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5", 
+            "monthlylisteners": 52376730, 
+            "artist": "J Balvin"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms?si=UUhJCwU5TPyYPi-jkThXjA", 
+            "monthlylisteners": 51161723, 
+            "artist": "Lady Gaga"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T", 
+            "monthlylisteners": 50025494, 
+            "artist": "Marshmello"
+        }, 
+        {
             "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2", 
             "monthlylisteners": 49787259, 
             "artist": "Halsey"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny?si=UUhJCwU5TPyYPi-jkThXjA", 
+            "monthlylisteners": 49348117, 
+            "artist": "Khalid"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY?si=UUhJCwU5TPyYPi-jkThXjA", 
+            "monthlylisteners": 49333577, 
+            "artist": "Travis Scott"
         }, 
         {
             "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60", 
@@ -36,9 +66,49 @@
             "artist": "Post Malone"
         }, 
         {
-            "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH", 
+            "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y", 
+            "monthlylisteners": 46250829, 
+            "artist": "Jason Derulo"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk", 
+            "monthlylisteners": 45476032, 
+            "artist": "DaBaby"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP?si=UUhJCwU5TPyYPi-jkThXjA", 
+            "monthlylisteners": 44166166, 
+            "artist": "Maroon 5"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY", 
+            "monthlylisteners": 43312154, 
+            "artist": "Ozuna"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz", 
+            "monthlylisteners": 43145842, 
+            "artist": "Juice WRLD"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3", 
+            "monthlylisteners": 41712343, 
+            "artist": "Harry Styles"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH?si=UUhJCwU5TPyYPi-jkThXjA", 
             "monthlylisteners": 41251308, 
             "artist": "Billie Eilish"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS", 
+            "monthlylisteners": 40814906, 
+            "artist": "Black Eyed Peas"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X", 
+            "monthlylisteners": 40801639, 
+            "artist": "Bad Bunny"
         }, 
         {
             "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m", 
@@ -47,8 +117,33 @@
         }, 
         {
             "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF", 
-            "monthlylisteners": 40333160, 
+            "monthlylisteners": 40293140, 
             "artist": "Camila Cabello"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02?si=UUhJCwU5TPyYPi-jkThXjA", 
+            "monthlylisteners": 40162318, 
+            "artist": "Taylor Swift"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m", 
+            "monthlylisteners": 39808254, 
+            "artist": "Beyonc\u00e9"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR?si=UUhJCwU5TPyYPi-jkThXjA", 
+            "monthlylisteners": 38867958, 
+            "artist": "Eminem"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4", 
+            "monthlylisteners": 38444749, 
+            "artist": "Kygo"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ", 
+            "monthlylisteners": 37227871, 
+            "artist": "SAINt JHN"
         }, 
         {
             "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr", 
@@ -56,8 +151,43 @@
             "artist": "Shawn Mendes"
         }, 
         {
+            "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX?si=UUhJCwU5TPyYPi-jkThXjA", 
+            "monthlylisteners": 37062193, 
+            "artist": "Diplo"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X?si=UUhJCwU5TPyYPi-jkThXjA", 
+            "monthlylisteners": 36374761, 
+            "artist": "Katy Perry"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai?si=UUhJCwU5TPyYPi-jkThXjA", 
+            "monthlylisteners": 35986616, 
+            "artist": "David Guetta"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY?si=UUhJCwU5TPyYPi-jkThXjA", 
+            "monthlylisteners": 35947847, 
+            "artist": "Calvin Harris"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx?si=UUhJCwU5TPyYPi-jkThXjA", 
+            "monthlylisteners": 35120683, 
+            "artist": "Selena Gomez"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI?si=UUhJCwU5TPyYPi-jkThXjA", 
+            "monthlylisteners": 34539290, 
+            "artist": "Sam Smith"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj", 
+            "monthlylisteners": 34316612, 
+            "artist": "Imanbek"
+        }, 
+        {
             "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q", 
-            "monthlylisteners": 34313343, 
+            "monthlylisteners": 34308764, 
             "artist": "Imagine Dragons"
         }, 
         {
@@ -67,7 +197,7 @@
         }, 
         {
             "url": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp", 
-            "monthlylisteners": 33630732, 
+            "monthlylisteners": 33630361, 
             "artist": "The Chainsmokers"
         }, 
         {
@@ -76,9 +206,39 @@
             "artist": "Tones And I"
         }, 
         {
+            "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C?si=UUhJCwU5TPyYPi-jkThXjA", 
+            "monthlylisteners": 33302680, 
+            "artist": "Bruno Mars"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d?si=UUhJCwU5TPyYPi-jkThXjA", 
+            "monthlylisteners": 33287125, 
+            "artist": "Queen"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ", 
+            "monthlylisteners": 33122864, 
+            "artist": "OneRepublic"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66", 
+            "monthlylisteners": 33058639, 
+            "artist": "Anuel AA"
+        }, 
+        {
             "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB", 
             "monthlylisteners": 32703321, 
             "artist": "Lewis Capaldi"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z", 
+            "monthlylisteners": 32437835, 
+            "artist": "Chris Brown"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/4npEfmQ6YuiwW1GpUmaq3F", 
+            "monthlylisteners": 31814702, 
+            "artist": "Ava Max"
         }, 
         {
             "url": "https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX", 
@@ -86,9 +246,34 @@
             "artist": "Swae Lee"
         }, 
         {
+            "url": "https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg", 
+            "monthlylisteners": 29329333, 
+            "artist": "Jawsh 685"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB", 
+            "monthlylisteners": 29235159, 
+            "artist": "Roddy Ricch"
+        }, 
+        {
             "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn", 
             "monthlylisteners": 28648823, 
             "artist": "Young Thug"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO", 
+            "monthlylisteners": 28013448, 
+            "artist": "Farruko"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg", 
+            "monthlylisteners": 27999487, 
+            "artist": "Tory Lanez"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT", 
+            "monthlylisteners": 27663550, 
+            "artist": "Nicky Jam"
         }, 
         {
             "url": "https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4", 
@@ -96,19 +281,94 @@
             "artist": "DJ Snake"
         }, 
         {
+            "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla", 
+            "monthlylisteners": 26623774, 
+            "artist": "KAROL G"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau", 
+            "monthlylisteners": 26540577, 
+            "artist": "Maluma"
+        }, 
+        {
             "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4", 
             "monthlylisteners": 26421597, 
             "artist": "XXXTENTACION"
         }, 
         {
+            "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK", 
+            "monthlylisteners": 25789247, 
+            "artist": "Megan Thee Stallion"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP", 
+            "monthlylisteners": 25597208, 
+            "artist": "DJ Khaled"
+        }, 
+        {
             "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp", 
-            "monthlylisteners": 25307443, 
+            "monthlylisteners": 25332713, 
             "artist": "Major Lazer"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ", 
+            "monthlylisteners": 25215337, 
+            "artist": "Surf Mesa"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ", 
+            "monthlylisteners": 24432624, 
+            "artist": "Topic"
         }, 
         {
             "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg", 
             "monthlylisteners": 24185249, 
             "artist": "Kendrick Lamar"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht", 
+            "monthlylisteners": 24101586, 
+            "artist": "Sech"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq", 
+            "monthlylisteners": 24009023, 
+            "artist": "Rauw Alejandro"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4", 
+            "monthlylisteners": 22864746, 
+            "artist": "BENEE"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7", 
+            "monthlylisteners": 22774465, 
+            "artist": "A7S"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ", 
+            "monthlylisteners": 22565837, 
+            "artist": "Jack Harlow"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj", 
+            "monthlylisteners": 22328789, 
+            "artist": "Pop Smoke"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W", 
+            "monthlylisteners": 22201008, 
+            "artist": "Myke Towers"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1", 
+            "monthlylisteners": 21900340, 
+            "artist": "ROSAL\u00cdA"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5", 
+            "monthlylisteners": 21895549, 
+            "artist": "J. Cole"
         }, 
         {
             "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM", 
@@ -121,14 +381,134 @@
             "artist": "Lil Uzi Vert"
         }, 
         {
+            "url": "https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7", 
+            "monthlylisteners": 21065799, 
+            "artist": "Natti Natasha"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865", 
+            "monthlylisteners": 20914293, 
+            "artist": "Lil Wayne"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N", 
+            "monthlylisteners": 20264372, 
+            "artist": "Camilo"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB", 
+            "monthlylisteners": 20256272, 
+            "artist": "Tainy"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW", 
+            "monthlylisteners": 19902661, 
+            "artist": "Sebastian Yatra"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1XLWox9w1Yvbodui0SRhUQ", 
+            "monthlylisteners": 19425307, 
+            "artist": "StaySolidRocky"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb", 
+            "monthlylisteners": 19208184, 
+            "artist": "Anitta"
+        }, 
+        {
             "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG", 
             "monthlylisteners": 18836433, 
             "artist": "Luis Fonsi"
         }, 
         {
+            "url": "https://open.spotify.com/artist/1OB278sOZVSFx5vXqYha83", 
+            "monthlylisteners": 18676392, 
+            "artist": "J. Rey Soul"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0", 
+            "monthlylisteners": 17905058, 
+            "artist": "Nio Garcia"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP", 
+            "monthlylisteners": 17793039, 
+            "artist": "Justin Quiles"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh", 
+            "monthlylisteners": 16759922, 
+            "artist": "50 Cent"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X", 
+            "monthlylisteners": 16626870, 
+            "artist": "Arcangel"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B", 
+            "monthlylisteners": 16402866, 
+            "artist": "Manuel Turizo"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn", 
+            "monthlylisteners": 16342080, 
+            "artist": "Dalex"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE", 
+            "monthlylisteners": 16288300, 
+            "artist": "Kane Brown"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm", 
+            "monthlylisteners": 16057208, 
+            "artist": "El Alfa"
+        }, 
+        {
             "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft", 
             "monthlylisteners": 15491173, 
             "artist": "21 Savage"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd", 
+            "monthlylisteners": 15313132, 
+            "artist": "Lenny Tav\u00e1rez"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg", 
+            "monthlylisteners": 14520319, 
+            "artist": "Aya Nakamura"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/2cWZOOzeOm4WmBJRnD5R7I?si=UUhJCwU5TPyYPi-jkThXjA", 
+            "monthlylisteners": 14410527, 
+            "artist": "Normani"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP", 
+            "monthlylisteners": 14357966, 
+            "artist": "Romeo Santos"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/0EFisYRi20PTADoJrifHrz", 
+            "monthlylisteners": 13983618, 
+            "artist": "Jhay Cortez"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo", 
+            "monthlylisteners": 13892660, 
+            "artist": "Feid"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd", 
+            "monthlylisteners": 13624081, 
+            "artist": "Piso 21"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC", 
+            "monthlylisteners": 13593408, 
+            "artist": "Prince Royce"
         }, 
         {
             "url": "https://open.spotify.com/artist/5iNrZmtVMtYev5M9yoWpEq", 
@@ -137,8 +517,28 @@
         }, 
         {
             "url": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi", 
-            "monthlylisteners": 12274390, 
+            "monthlylisteners": 12290860, 
             "artist": "Daft Punk"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/2ydZrTy8U3kOMOzx20s3dg", 
+            "monthlylisteners": 9880289, 
+            "artist": "DJ Nelson"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM?si=UUhJCwU5TPyYPi-jkThXjA", 
+            "monthlylisteners": 9718976, 
+            "artist": "Morgan Wallen"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb", 
+            "monthlylisteners": 9695111, 
+            "artist": "De La Ghetto"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/5DUlefCLzVRzNWaNURTFpK", 
+            "monthlylisteners": 9652478, 
+            "artist": "Cali Y El Dandee"
         }, 
         {
             "url": "https://open.spotify.com/artist/2KsP6tYLJlTBvSUxnwlVWa", 
@@ -146,9 +546,44 @@
             "artist": "Mike Posner"
         }, 
         {
+            "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5", 
+            "monthlylisteners": 9496154, 
+            "artist": "Quavo"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/2JbE7jUIGtpXSzytnyMg6U", 
+            "monthlylisteners": 8941894, 
+            "artist": "Curtis Waters"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g", 
+            "monthlylisteners": 8933480, 
+            "artist": "Jay Wheeler"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/3fZk3Gm5dN5v5yfYMQ04Bx", 
+            "monthlylisteners": 8394039, 
+            "artist": "D\u00edmelo Flow"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow", 
+            "monthlylisteners": 7759114, 
+            "artist": "Micro TDH"
+        }, 
+        {
             "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH", 
             "monthlylisteners": 7519746, 
             "artist": "Daya"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7", 
+            "monthlylisteners": 7431565, 
+            "artist": "Be\u00e9le"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8", 
+            "monthlylisteners": 6966242, 
+            "artist": "Rels B"
         }, 
         {
             "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv", 
@@ -161,9 +596,39 @@
             "artist": "WizKid"
         }, 
         {
+            "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ", 
+            "monthlylisteners": 3650893, 
+            "artist": "Brray"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D", 
+            "monthlylisteners": 3297584, 
+            "artist": "Juanka"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/1Oa0bMld0A3u5OTYfMzp5h?si=UUhJCwU5TPyYPi-jkThXjA", 
+            "monthlylisteners": 2662045, 
+            "artist": "Nate Dogg"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4", 
+            "monthlylisteners": 1949591, 
+            "artist": "Gus Dapperton"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE", 
+            "monthlylisteners": 729286, 
+            "artist": "Emilee"
+        }, 
+        {
             "url": "https://open.spotify.com/artist/77DAFfvm3O9zT5dIoG0eIO", 
             "monthlylisteners": 31655, 
             "artist": "Kyla"
+        }, 
+        {
+            "url": "https://open.spotify.com/artist/44rJuOJLavqhY6qGgpQW4U", 
+            "monthlylisteners": 8397, 
+            "artist": "Harm Franklin"
         }
     ]
 }

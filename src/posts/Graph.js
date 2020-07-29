@@ -7,7 +7,7 @@ var artistList=[];
 var listenersList=[];
 
 //Puts artistName and artistListeners into artistList & listenersList arrays
-for (var i = 0; i < ListenerData.artists.length; i++) {    
+for (var i = 0; i < 50; i++) {    
     for (var artist in ListenerData.artists[i]) {                    
         if (ListenerData.artists[i].hasOwnProperty('artist')) { 
             console.log(typeof artist)	

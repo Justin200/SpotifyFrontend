@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import '../App'
 import {Bar} from 'react-chartjs-2';
-import ListenerData from '../data/listeners.json';
+import ListenerData from '../data/sorted.json';
 
 var artistList=[];
 var listenersList=[];

@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import ListenerData from '../data/listeners.json';
+import ListenerData from '../data/sorted.json';
 
 const rowStyles ={
     display: 'flex', 
@@ -20,7 +20,7 @@ class ArtistsList extends Component {
                 </div>
 
                 {/*Iterate through all json data*/}
-                {ListenerData.artists.slice(0,10).map((listenerDetail)=>{
+                {ListenerData.artists.slice(ListenerData.artists.length-25, ListenerData.artists.length).map((listenerDetail)=>{
                     return <div id = "artistRow" style={rowStyles}>
                         <a href={listenerDetail.url} style ={{color: 'white', textDecoration:'none'}}>1. {listenerDetail.artist}</a>
                         <p style ={{color: 'white'}}>{listenerDetail.monthlylisteners}</p> 

@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import '../App'
-import {Bar} from 'react-chartjs-2';
+import {HorizontalBar} from 'react-chartjs-2';
 import ListenerData from '../data/sorted.json';
 
 var artistList=[];
@@ -40,7 +40,7 @@ class Graph extends Component {
     render(){
         return (
             <div>
-              <Bar
+              <HorizontalBar
                 data={state}
                 options={{
                   title:{
@@ -52,7 +52,10 @@ class Graph extends Component {
                   legend:{
                     display:true,
                     position:'right',
-                    fontColor: "white"
+                    labels: {
+                      // This more specific font property overrides the global property
+                      fontColor: 'white'
+                    }
                   }
                 }}
               />
